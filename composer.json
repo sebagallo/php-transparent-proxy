@@ -1,0 +1,9 @@
+{
+  "name": "sebagallo/php-transparent-proxy",
+  "license": "BSD-3 + MIT",
+  "autoload": {
+    "psr-0": {
+      "Seba\\Routing": "src"
+    }
+  }
+}
